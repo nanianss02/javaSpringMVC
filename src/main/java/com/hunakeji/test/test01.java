@@ -7,5 +7,6 @@ public class test01 {
         System.out.println("你好我是第一个Git22");
         System.out.println("你好我是第一个Git22Hot-fix");
         System.out.println("我是master中的分支");
+        System.out.println("我是热修分支hot-fix");
     }
 }
